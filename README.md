@@ -1,9 +1,4 @@
-### Hello!  👋
-
-
-**Bibekmhrz/BIbekmhrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+   Hello!  👋👋👋👋 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +9,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b4ckopvoemt30jaji83vzac2y&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)

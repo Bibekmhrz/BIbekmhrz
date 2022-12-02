@@ -46,3 +46,32 @@ pursuing my BSc.CSIT from Academia International College, Gwarko
 - I'm currently listening to...
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b4ckopvoemt30jaji83vzac2y&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+                                   
+
+## 📊 My Github Stats:
+![snake gif](https://github.com/Bibekmhrz/Bibekmhrz/blob/output/github-contribution-grid-snake.svg)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bibekmhrz&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<br>
+
+[![Bibek Maharjan GitHub stats](https://github-readme-stats.vercel.app/api?username=Bibekmhrz&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![Bibek Maharjan GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Bibekmhrz&show_icons=true&locale=en&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br/>
+
+### 🏆 Git Profile Trophies:
+<p align="left"><img src = "https://github-profile-trophy.vercel.app/?username=Bibekmhrz&theme=juicyfresh&no-bg=true"/></p>
+<br>
+
+<hr>
+
+## 🤝 Lets connect through:
+<a href="https://www.facebook.com/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
+<a href="https://twitter.com/"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+                                   

@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!, I'm Ural Shrestha!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
+<h1 align="center">Hello World!, I'm Bibek Maharjan!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 <br>
 
 I am an Undergraduate Student
@@ -10,7 +10,7 @@ pursuing my B.CSIT from Academia International College, Gwarko
 <!-- - ✍ You can find my resume here [Resume] -->
 - 🌱 I’m currently learning Django Web Development
 - 👯 I’m looking to collaborate on open source
-- 📫 Reach out to me: shresthaural100@gmail.com
+- 📫 Reach out to me: mhrz.bibek@gmail.com
 
 <br>
 <hr>
@@ -41,6 +41,8 @@ pursuing my B.CSIT from Academia International College, Gwarko
 <img alt="Emacs" src="https://img.shields.io/badge/GNU%20Emacs%20-%8843b6.svg?logo=GNU%20Emacs&logoColor=white">
 <img alt="Terminal" src="https://img.shields.io/badge/GNOME%20Terminal-%23F37626.svg?logo=GNOME%Terminal&logoColor=white">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Vi
+                                   
+                                   
 - I'm currently listening to...
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b4ckopvoemt30jaji83vzac2y&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)

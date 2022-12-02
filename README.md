@@ -2,7 +2,7 @@
 <br>
 
 I am an Undergraduate Student
-pursuing my B.CSIT from Academia International College, Gwarko
+pursuing my BSc.CSIT from Academia International College, Gwarko
 
 <br>
 

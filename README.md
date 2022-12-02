@@ -44,11 +44,11 @@ pursuing my BSc.CSIT from Academia International College, Gwarko
                                    
 - I'm currently listening to...
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b4ckopvoemt30jaji83vzac2y&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kohux1jvi7ze8o2lc2mqe49uz&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<br>
                                    
 
 ## 📊 My Github Stats:
-![snake gif](https://github.com/Bibekmhrz/Bibekmhrz/blob/output/github-contribution-grid-snake.svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bibekmhrz&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 

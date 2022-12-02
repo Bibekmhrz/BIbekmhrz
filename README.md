@@ -22,7 +22,7 @@ pursuing my BSc.CSIT from Academia International College, Gwarko
 <p>
 <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
 <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+<!-- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"> -->
 <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
 <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
 </p>
@@ -35,12 +35,11 @@ pursuing my BSc.CSIT from Academia International College, Gwarko
 
 ### 💻 Software, Tools and OS
 <p>
-<img alt="Vim" src="https://img.shields.io/badge/Vim-019533.svg?logo=Vim&logoColor=white">
-<img alt="Neovim" src="https://img.shields.io/badge/Neovim-58a633.svg?logo=Neovim&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
-<img alt="Emacs" src="https://img.shields.io/badge/GNU%20Emacs%20-%8843b6.svg?logo=GNU%20Emacs&logoColor=white">
-<img alt="Terminal" src="https://img.shields.io/badge/GNOME%20Terminal-%23F37626.svg?logo=GNOME%Terminal&logoColor=white">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Vi
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+<!-- <img alt="Windows" src="https://img.shields.io/badge/Windows%20-%0078D6.svg?logo=Windows&logoColor=white"> -->
+<img alt="Linux" src="https://img.shields.io/badge/Linux-383838?logo=Linux&logoColor=white">
+</p>
                                    
                                    
 - I'm currently listening to...

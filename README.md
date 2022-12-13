@@ -8,7 +8,7 @@ pursuing my BSc.CSIT from Academia International College, Gwarko
 
 
 <!-- - ✍ You can find my resume here [Resume] -->
-- 🌱 I’m currently learning Django Web Development
+- 🌱 I’m currently learning .net core
 - 👯 I’m looking to collaborate on open source
 - 📫 Reach out to me: mhrz.bibek@gmail.com
 
